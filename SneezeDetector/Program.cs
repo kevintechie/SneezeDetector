@@ -20,8 +20,8 @@ namespace SneezeDetector
 		protected static double UtcOffsetMinutes = -480;
 
 		// SuperTweet
-		protected static string userID = "gabudomain";
-		protected static string password = "doorman01";
+		protected static string userID = "userid";
+		protected static string password = "password";
 		protected static SuperTweet twitterClient = null;
 		
 		protected static string[] messages = new string[] { "We have a winner.", "That's how to do it.", "She's breaking up, Captain!", "Whoop. There it is.", "Bam!" };
